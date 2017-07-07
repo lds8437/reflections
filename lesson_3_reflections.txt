@@ -1,2 +1,6 @@
 When would you want to create a remote repository rather than keep all your work local?
 - User can push changes to remote reposityry and store them.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- Hard to describe, just google them
+
