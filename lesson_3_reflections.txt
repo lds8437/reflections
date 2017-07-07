@@ -4,3 +4,6 @@ When would you want to create a remote repository rather than keep all your work
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 - Hard to describe, just google them
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- User can keep track of history of changes
+
